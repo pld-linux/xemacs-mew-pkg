@@ -1,11 +1,12 @@
 Summary:	Messaging in an Emacs World
-Summary(pl):	Messaging in an Emacs World
+Summary(pl):	Komunikowanie w ¦wiecie Emacsa
 Name:		xemacs-mew-pkg
 %define 	srcname	mew
 Version:	1.14
-Release:	1
+Release:	2
 License:	GPL
 Group:		Applications/Editors/Emacs
+Group(de):	Applikationen/Editors/Emacs
 Group(pl):	Aplikacje/Edytory/Emacs
 Source0:	ftp://ftp.xemacs.org/xemacs/packages/%{srcname}-%{version}-pkg.tar.gz
 #Patch0:	xemacs-mew-pkg-info.patch
@@ -17,8 +18,10 @@ Requires:	xemacs-mew-pkg
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
+Messaging in an Emacs World.
 
 %description -l pl 
+Komunikowanie w ¦wiecie Emacsa.
 
 %prep
 %setup -q -c
