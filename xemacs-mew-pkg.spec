@@ -2,7 +2,7 @@ Summary:	Messaging in an Emacs World
 Summary(pl):	Messaging in an Emacs World
 Name:		xemacs-mew-pkg
 %define 	srcname	mew
-Version:	1.09
+Version:	1.11
 Release:	1
 License:	GPL
 Group:		Applications/Editors/Emacs
