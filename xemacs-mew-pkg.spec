@@ -2,12 +2,12 @@ Summary:	Messaging in an Emacs World
 Summary(pl):	Komunikowanie w ¦wiecie Emacsa
 Name:		xemacs-mew-pkg
 %define 	srcname	mew
-Version:	1.17
+Version:	1.18
 Release:	1
 License:	GPL
 Group:		Applications/Editors/Emacs
 Source0:	ftp://ftp.xemacs.org/xemacs/packages/%{srcname}-%{version}-pkg.tar.gz
-# Source0-md5:	03fa0583b534322d0375901796d22ec5
+# Source0-md5:	09533ddf67f0948c6b4a40b996d82fbd
 #Patch0:	xemacs-mew-pkg-info.patch
 URL:		http://www.xemacs.org/
 BuildArch:	noarch
