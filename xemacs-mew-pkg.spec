@@ -7,6 +7,7 @@ Release:	1
 License:	GPL
 Group:		Applications/Editors/Emacs
 Source0:	ftp://ftp.xemacs.org/xemacs/packages/%{srcname}-%{version}-pkg.tar.gz
+# Source0-md5:	03fa0583b534322d0375901796d22ec5
 #Patch0:	xemacs-mew-pkg-info.patch
 URL:		http://www.xemacs.org/
 BuildArch:	noarch
