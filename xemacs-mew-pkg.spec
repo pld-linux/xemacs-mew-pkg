@@ -1,5 +1,5 @@
 Summary:	Messaging in an Emacs World
-Summary(pl.UTF-8):   Komunikowanie w Świecie Emacsa
+Summary(pl.UTF-8):	Komunikowanie w Świecie Emacsa
 Name:		xemacs-mew-pkg
 %define 	srcname	mew
 Version:	1.18
