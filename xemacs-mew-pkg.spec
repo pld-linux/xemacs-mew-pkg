@@ -1,5 +1,5 @@
 Summary:	Messaging in an Emacs World
-Summary(pl):	Komunikowanie w ¦wiecie Emacsa
+Summary(pl.UTF-8):   Komunikowanie w Åšwiecie Emacsa
 Name:		xemacs-mew-pkg
 %define 	srcname	mew
 Version:	1.18
@@ -19,8 +19,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 Messaging in an Emacs World.
 
-%description -l pl
-Komunikowanie w ¦wiecie Emacsa.
+%description -l pl.UTF-8
+Komunikowanie w Åšwiecie Emacsa.
 
 %prep
 %setup -q -c
