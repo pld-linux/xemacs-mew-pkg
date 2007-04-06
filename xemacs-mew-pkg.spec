@@ -6,7 +6,7 @@ Version:	1.18
 Release:	2
 License:	GPL
 Group:		Applications/Editors/Emacs
-Source0:	ftp://ftp.xemacs.org/xemacs/packages/%{srcname}-%{version}-pkg.tar.gz
+Source0:	http://ftp.xemacs.org/xemacs/packages/%{srcname}-%{version}-pkg.tar.gz
 # Source0-md5:	09533ddf67f0948c6b4a40b996d82fbd
 #Patch0:	xemacs-mew-pkg-info.patch
 URL:		http://www.xemacs.org/
